@@ -9,6 +9,17 @@
   position: relative;
   z-index: 10;
 }
+.mb-0 {
+	margin-left: 25px;
+	margin-right: 25px;
+}
+
+.display-4 {
+	font-family:"FunSized";
+	font-size: 60px;
+
+
+}
 
 .my-bg-photo:before {
   content: " ";
@@ -327,4 +338,10 @@
 	font-weight: bold;
 	text-decoration: underline;
 	font-style: normal;
+}
+
+.mt-5 {
+	background-color: rgb(154, 176, 201);
+	font-size: 85%;
+	font-family: 
 }
