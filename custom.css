@@ -1,5 +1,5 @@
 .my-bg-photo {
-  background: url('red-background.jpg') no-repeat;
+  background: url('Screen\ Shot\ 2020-08-30\ at\ 13.25.48.png') no-repeat;
   background-size: cover;
   background-position: center center;
   position: relative;
@@ -78,7 +78,7 @@
 }
 
 .donation-box .title {
-	background-color: #ff4d4d;
+	background-color: #d91c42;
 	width: 100%;
 	border-top-left-radius: 4px;
 	border-top-right-radius: 4px;
@@ -90,7 +90,7 @@
 }
 
 .donation-box .donate-button {
-	background-color:#ff4d4d;
+	background-color: #d91c42;
 	width: 100%;
 	color: white;
 	text-align: center;
@@ -263,9 +263,9 @@
   left: 2px;
   width: 49%;
   height: 22px;
-  background: #ff4d4d;
+  background: #d91c42;
   border-radius: 3px;
-  background-color: #ff4d4d;
+  background-color: #d91c42;
   
   -webkit-transition: left 0.15s ease-out;
   -moz-transition: left 0.15s ease-out;
@@ -289,7 +289,7 @@
 .checkbox {
 	-webkit-appearance: none;
 	background-color: #fafafa;
-	border: 1px solid red;
+	border: 1px solid #d91c42;
 	padding: 9px;
 	border-radius: 3px;
 	display: inline-block;
@@ -306,8 +306,8 @@
 }
 
 .checkbox:checked {
-	background-color: #ff4d4d;
-	border: 1px solid red;
+	background-color: #d91c42;
+	border: 1px solid #d91c42;
 	color: white;
 }
 
