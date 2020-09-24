@@ -15,7 +15,7 @@
 }
 
 .display-4 {
-	font-family: 'Ranchers', cursive;
+	font-family: 'Ranchers';
 	font-size: 80px;
 
 
@@ -254,11 +254,11 @@
   left: 114px;
 }
 
-#button {
+.button {
 	line-height: 12px;
 	width: 18px;
 	font-size: 8pt;
-	font-family: tahoma;
+	font-family: 'Ranchers';
 	margin-top: 1px;
 	margin-right: 2px;
 	position:absolute;
