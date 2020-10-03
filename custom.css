@@ -15,8 +15,8 @@
 }
 
 .display-4 {
-	font-family: 'Bangers', bold;
-	font-size: 120px;
+	font-family: 'Bubblegum Sans', cursive;
+	font-size: 110px;
 }
 
 .my-bg-photo:before {
@@ -61,7 +61,7 @@
 
 .donation-box {
 	width: 380px;
-	height: 420px;
+	height: 390px;
 	background-color: #F5F5F5;
 	border-top-left-radius: 4px;
 	border-top-right-radius: 4px;
